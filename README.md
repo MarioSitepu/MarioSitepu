@@ -57,13 +57,13 @@ Mahasiswa Institut Teknologi Sumatera (ITERA) Angkatan 2023 yang passionate dala
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarioSitepu&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarioSitepu&layout=compact&theme=radical)
 
 ### 🏆 Featured Projects
 
-#### 🎨 [UI/UX Design Project](link-to-figma-or-behance)
+#### 🎨 [UI/UX Design Project](link  -to-figma-or-behance)
 Complete redesign aplikasi mobile dengan user research dan usability testing.
 - **Tools:** Figma, User Research, Prototyping
 - **Impact:** Improved user satisfaction score by [X]%
