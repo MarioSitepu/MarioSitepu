@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Mario Fransiskus Sitepu]
+# Hi there! 👋 I'm Mario Fransiskus Sitepu
 
 ## 🎨 UI/UX Designer | Frontend Developer | Design Enthusiast
 
