@@ -2,7 +2,7 @@
 
 ## 🎨 UI/UX Designer | Frontend Developer | Design Enthusiast
 
-Mahasiswa Institut Teknologi Sumatera (ITERA) Angkatan 2023 yang passionate dalam menciptakan pengalaman digital yang menarik dan fungsional. Saya menggabungkan kreativitas desain dengan kemampuan coding untuk menghadirkan interface yang user-friendly dan visually appealing.
+Saya Mahasiswa Institut Teknologi Sumatera (ITERA) Angkatan 2023 yang passionate dalam menciptakan pengalaman digital yang menarik dan fungsional. Saya menggabungkan kreativitas desain dengan kemampuan coding untuk menghadirkan interface yang user-friendly dan visually appealing.
 
 ### 💻 Design & Development Skills
 - **UI/UX Design:** Figma, Adobe XD, Sketch, Prototyping, Wireframing, User Research
