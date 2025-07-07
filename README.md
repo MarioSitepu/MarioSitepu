@@ -5,7 +5,7 @@
 Saya Mahasiswa Institut Teknologi Sumatera (ITERA) Angkatan 2023 yang passionate dalam menciptakan pengalaman digital yang menarik dan fungsional. Saya menggabungkan kreativitas desain dengan kemampuan coding untuk menghadirkan interface yang user-friendly dan visually appealing.
 
 ### 💻 Design & Development Skills
-- **UI/UX Design:** Figma, Adobe XD, Sketch, Prototyping, Wireframing, User Research
+- **UI/UX Design:** Figma, Prototyping, Wireframing, User Research
 - **Frontend Development:** HTML5, CSS3, JavaScript (ES6+), React.js, Vue.js, TypeScript
 - **Styling:** Tailwind CSS, Bootstrap, SASS/SCSS, Responsive Design
 - **Design System:** Component libraries, Style guides, Design tokens
