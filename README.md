@@ -10,7 +10,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stinart123@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281262553164)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=800&lines=Mahasiswa+Institut+Teknologi+Sumatera+(ITERA)+Angkatan+2023;Passionate+dalam+menciptakan+pengalaman+digital+yang+menarik+dan+fungsional" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=800&lines=Mahasiswa+Institut+Teknologi+Sumatera+(ITERA)+Angkatan+2023;Passionate+menciptakan+pengalaman+digital+yang+menarik+dan+fungsional" alt="Typing SVG" />
 
 </div>
 
