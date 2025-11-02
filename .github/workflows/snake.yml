@@ -1,0 +1,46 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    # Update setiap hari jam 00:00 UTC (07:00 WIB)
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Generate Snake Animation
+        uses: platane/snk@master
+        id: snake-gif
+        with:
+          github_user_name: MarioSitepu
+          svg_out_path: dist/github-contribution-grid-snake.svg
+          
+      - name: Generate Dark Snake Animation
+        uses: platane/snk@master
+        id: snake-gif-dark
+        with:
+          github_user_name: MarioSitepu
+          svg_out_path: dist/github-contribution-grid-snake-dark.svg
+          color_snake: '#FF6B6B'
+          color_dots: '#FF6B6B'
+          color_line: '#FF6B6B'
+          
+      - name: Deploy to output branch
+        uses: peaceiris/actions-gh-pages@v3
+        if: always()
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          destination_dir: output
+          keep_files: false
