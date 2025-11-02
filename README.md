@@ -1,28 +1,58 @@
 <div align="center">
 
-# 👋 Hi there! I'm Mario Fransiskus Sitepu
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Hi+there!+👋;I'm+Mario+Fransiskus+Sitepu" alt="Typing SVG" />
 
 ### 🎨 UI/UX Designer | 💻 Full Stack Developer
+
+<img src="https://raw.githubusercontent.com/MarioSitepu/MarioSitepu/output/github-contribution-grid-snake.svg" alt="snake animation" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=65&section=header&text=Mario%20Fransiskus%20Sitepu&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=40" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariofransiskussitepu/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stinart123@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281262553164)
 
-*Mahasiswa Institut Teknologi Sumatera (ITERA) Angkatan 2023 yang passionate dalam menciptakan pengalaman digital yang menarik dan fungsional*
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=800&lines=Mahasiswa+Institut+Teknologi+Sumatera+(ITERA)+Angkatan+2023;Passionate+dalam+menciptakan+pengalaman+digital+yang+menarik+dan+fungsional" alt="Typing SVG" />
 
+</div>
+
+<div align="center">
+  <img src="https://github.com/MarioSitepu/MarioSitepu/blob/main/giphy.gif" width="300" height="300" alt="Coding Animation"/>
 </div>
 
 ---
 
 ## 🌟 About Me
 
+<div align="center">
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/MarioSitepu/MarioSitepu/main/Assets/coding.gif" width="300" height="250" />
+
+</div>
+
 Saya adalah mahasiswa **Informatika Institut Teknologi Sumatera (ITERA)** yang menggabungkan kreativitas desain dengan kemampuan coding untuk menghadirkan interface yang user-friendly dan visually appealing. Saya percaya bahwa desain yang baik tidak hanya terlihat indah, tetapi juga dapat meningkatkan pengalaman pengguna secara signifikan.
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=500&color=FF6B6B&center=true&vCenter=true&width=600&lines=Passionate+Developer+%7C+Creative+Designer+%7C+Lifelong+Learner" alt="Typing SVG" />
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
+
+</div>
+
 > 💡 **"Good design is obvious. Great design is transparent."** - Joe Sparano
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MarioSitepu/MarioSitepu/main/Assets/wave.gif" width="30px" height="30px" />
+</div>
 
 ---
 
 ## 💻 Tech Stack & Skills
+
+<img src="https://raw.githubusercontent.com/MarioSitepu/MarioSitepu/main/Assets/developer.gif" width="50" /> <b>Languages and Tools</b>
+
+<div align="center">
 
 ### 🎨 Design Tools
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -50,9 +80,21 @@ Saya adalah mahasiswa **Informatika Institut Teknologi Sumatera (ITERA)** yang m
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MarioSitepu/MarioSitepu/main/Assets/github-contributor-grid-snake.svg" alt="Snake animation" />
+</div>
+
 ---
 
 ## 🎯 What I Do
+
+<div align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="30">
+  <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="30">
+</div>
 
 - 🎨 **UI/UX Design** - Merancang interface yang intuitif dan user-centered
 - 💻 **Frontend Development** - Transform designs menjadi pixel-perfect code
@@ -60,6 +102,10 @@ Saya adalah mahasiswa **Informatika Institut Teknologi Sumatera (ITERA)** yang m
 - 🔍 **User Research** - Melakukan riset pengguna dan usability testing
 - ⚡ **Performance Optimization** - Mengoptimalkan UX dan interface performance
 - 👥 **Collaboration** - Bekerja dalam tim dengan design thinking approach
+
+<div align="center">
+  <img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="200" />
+</div>
 
 ---
 
@@ -94,7 +140,7 @@ Saya adalah mahasiswa **Informatika Institut Teknologi Sumatera (ITERA)** yang m
 *Coming soon - Development projects akan ditampilkan di sini*
 
 ### 🌐 Portfolio Website
-*Link portfolio akan ditampilkan di sini*
+*Coming soon- Link portfolio akan ditampilkan di sini*
 
 ---
 
@@ -102,11 +148,16 @@ Saya adalah mahasiswa **Informatika Institut Teknologi Sumatera (ITERA)** yang m
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarioSitepu&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarioSitepu&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioSitepu&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarioSitepu&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B)
+</div>
+
+<div align="center">
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=MarioSitepu&theme=radical)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MarioSitepu&theme=radical&hide_border=true&area=true)
 
 </div>
 
@@ -140,7 +191,19 @@ Saya adalah mahasiswa **Informatika Institut Teknologi Sumatera (ITERA)** yang m
 
 ⭐ **Open to internships, freelance projects, and collaborations!**
 
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/MarioSitepu/MarioSitepu/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+
+</div>
+
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=MarioSitepu.MarioSitepu&left_color=gray&right_color=blue)
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+⭐;Feel+free+to+reach+out+if+you+have+any+questions" alt="Typing SVG" />
+
+</div>
 
 </div>
 
