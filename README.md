@@ -4,7 +4,7 @@
 
 ### 🎨 UI/UX Designer | 💻 Full Stack Developer
 
-<img src="https://raw.githubusercontent.com/MarioSitepu/MarioSitepu/output/github-contribution-grid-snake.svg" alt="snake animation" />
+![snake gif](https://raw.githubusercontent.com/MarioSitepu/MarioSitepu/output/github-contribution-grid-snake.svg)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=65&section=header&text=Mario%20Fransiskus%20Sitepu&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=40" />
 
@@ -83,7 +83,9 @@ Saya adalah mahasiswa **Informatika Institut Teknologi Sumatera (ITERA)** yang m
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MarioSitepu/MarioSitepu/main/Assets/github-contributor-grid-snake.svg" alt="Snake animation" />
+  
+![snake gif](https://raw.githubusercontent.com/MarioSitepu/MarioSitepu/output/github-contribution-grid-snake.svg)
+
 </div>
 
 ---
@@ -193,7 +195,7 @@ Saya adalah mahasiswa **Informatika Institut Teknologi Sumatera (ITERA)** yang m
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MarioSitepu/MarioSitepu/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+![snake gif](https://raw.githubusercontent.com/MarioSitepu/MarioSitepu/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
