@@ -106,7 +106,7 @@ Saya adalah mahasiswa **Informatika Institut Teknologi Sumatera (ITERA)** yang m
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarioSitepu&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B)
 
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=MarioSitepu&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakLabel=FF6B6B)
+![GitHub Streak](https://streak-stats.demolab.com?user=MarioSitepu&theme=radical)
 
 </div>
 
