@@ -80,14 +80,8 @@ Saya adalah mahasiswa **Informatika Institut Teknologi Sumatera (ITERA)** yang m
 
 </div>
 
-<div align="center">
-  
-<!-- Snake animation akan muncul setelah workflow GitHub Actions berjalan pertama kali -->
-![snake gif](https://raw.githubusercontent.com/MarioSitepu/MarioSitepu/output/github-contribution-grid-snake.svg)
-
-</div>
-
 ---
+
 
 ## 🎯 What I Do
 
@@ -194,8 +188,7 @@ Saya adalah mahasiswa **Informatika Institut Teknologi Sumatera (ITERA)** yang m
 
 <div align="center">
 
-<!-- Snake animation akan muncul setelah workflow GitHub Actions berjalan pertama kali -->
-![snake gif](https://raw.githubusercontent.com/MarioSitepu/MarioSitepu/output/github-contribution-grid-snake-dark.svg)
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDcyMWF4aXFqZHp5dDRjbTZ6bWN0NnBubzI5M3R2a3NydjBxM2JveSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aCTPPm4OHfRLSH6/giphy.gif" width="350" alt="Coding Animation" />
 
 </div>
 
