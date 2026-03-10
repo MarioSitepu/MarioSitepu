@@ -67,11 +67,11 @@ I focus on building **scalable web applications**, integrating **AI into real-wo
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### � Mobile Development
+### 📱 Mobile Development
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
-### �🗄️ Backend & Database
+### 🗄️ Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
@@ -113,7 +113,7 @@ I focus on building **scalable web applications**, integrating **AI into real-wo
 
 ---
 
-## � GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -134,18 +134,18 @@ I focus on building **scalable web applications**, integrating **AI into real-wo
 
 ## 🧩 Current Focus
 
-- � Building **AI-powered web applications**
+- 🚀 Building **AI-powered web applications**
 - 🧠 Learning **advanced system design & AI integration**
 - 🌐 Expanding my **fullstack development skills**
 - 🤝 Contributing to **open-source projects**
 
 ---
 
-## � Opportunities
+## 🎯 Opportunities
 
 I’m currently open to:
 
-- � **Internships (Software Engineer / AI Engineer)**
+- 💼 **Internships (Software Engineer / AI Engineer)**
 - 🤝 **Tech collaborations**
 - 🚀 **Startup projects**
 - 🌱 **Open source contributions**
