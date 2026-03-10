@@ -1,16 +1,17 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Hi+there!+👋;I'm+Mario+Fransiskus+Sitepu" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Hi+there!+👋;I'm+Mario+Sitepu" alt="Typing SVG" />
 
-### 🎨 UI/UX Designer | 💻 Full Stack Developer
+### 💻 Fullstack Developer | 🤖 AI Engineer
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=65&section=header&text=Mario%20Fransiskus%20Sitepu&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=40" />
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://mario-sitepu.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariofransiskussitepu/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stinart123@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281262553164)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=800&lines=Mahasiswa+Institut+Teknologi+Sumatera+(ITERA)+Angkatan+2023;Passionate+menciptakan+pengalaman+digital+yang+menarik+dan+fungsional" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=800&lines=Passionate+about+building+modern+web+applications;Creating+intelligent+systems;Crafting+beautiful+user+experiences." alt="Typing SVG" />
 
 </div>
 
@@ -20,7 +21,7 @@
 
 ---
 
-## 🌟 About Me
+## 🚀 About Me
 
 <div align="center">
 
@@ -28,9 +29,14 @@
 
 </div>
 
-Saya adalah mahasiswa **Informatika Institut Teknologi Sumatera (ITERA)** yang menggabungkan kreativitas desain dengan kemampuan coding untuk menghadirkan interface yang user-friendly dan visually appealing. Saya percaya bahwa desain yang baik tidak hanya terlihat indah, tetapi juga dapat meningkatkan pengalaman pengguna secara signifikan.
+I am an **Informatics student at Institut Teknologi Sumatera (ITERA)** who enjoys combining **software engineering, AI, and design thinking** to build impactful digital products.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=500&color=FF6B6B&center=true&vCenter=true&width=600&lines=Passionate+Developer+%7C+Creative+Designer+%7C+Lifelong+Learner" alt="Typing SVG" />
+I focus on building **scalable web applications**, integrating **AI into real-world systems**, and designing **clean user experiences**.
+
+💡 I believe great technology is built at the intersection of:
+- Engineering
+- Design
+- Human-centered thinking
 
 <div align="center">
 
@@ -38,24 +44,17 @@ Saya adalah mahasiswa **Informatika Institut Teknologi Sumatera (ITERA)** yang m
 
 </div>
 
-> 💡 **"Good design is obvious. Great design is transparent."** - Joe Sparano
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/MarioSitepu/MarioSitepu/main/Assets/wave.gif" width="30px" height="30px" />
 </div>
 
 ---
 
-## 💻 Tech Stack & Skills
+## 🧠 Tech Stack
 
 <img src="https://raw.githubusercontent.com/MarioSitepu/MarioSitepu/main/Assets/developer.gif" width="50" /> <b>Languages and Tools</b>
 
 <div align="center">
-
-### 🎨 Design Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)
 
 ### 💻 Programming Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -63,7 +62,7 @@ Saya adalah mahasiswa **Informatika Institut Teknologi Sumatera (ITERA)** yang m
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### ⚛️ Frontend Framework
+### ⚛️ Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -73,17 +72,19 @@ Saya adalah mahasiswa **Informatika Institut Teknologi Sumatera (ITERA)** yang m
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### 🛠️ Tools & Others
+### 🤖 AI & Tools
+![Python AI Ecosystem](https://img.shields.io/badge/Python_AI-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
 ---
 
-
-## 🎯 What I Do
+## 🔥 What I Build
 
 <div align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
@@ -91,12 +92,10 @@ Saya adalah mahasiswa **Informatika Institut Teknologi Sumatera (ITERA)** yang m
   <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="30">
 </div>
 
-- 🎨 **UI/UX Design** - Merancang interface yang intuitif dan user-centered
-- 💻 **Frontend Development** - Transform designs menjadi pixel-perfect code
-- 📱 **Responsive Design** - Membuat aplikasi mobile-first dan responsive
-- 🔍 **User Research** - Melakukan riset pengguna dan usability testing
-- ⚡ **Performance Optimization** - Mengoptimalkan UX dan interface performance
-- 👥 **Collaboration** - Bekerja dalam tim dengan design thinking approach
+- 💻 **Fullstack Web Applications** - Modern, responsive, and scalable web apps.
+- 🤖 **AI-Powered Applications** - Integrating machine learning and AI APIs into real-world products.
+- 🎨 **User-Centered Interfaces** - Designing intuitive UI/UX that improves user interaction.
+- ⚡ **Performance-Focused Systems** - Building applications optimized for speed and usability.
 
 <div align="center">
   <img src="https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif" width="200" />
@@ -104,42 +103,7 @@ Saya adalah mahasiswa **Informatika Institut Teknologi Sumatera (ITERA)** yang m
 
 ---
 
-## 📈 Current Focus
-
-- 🎓 **Mahasiswa ITERA 2023** - Mendalami Web Development, Python & UI/UX Design
-- 🔥 Mempelajari advanced React patterns dan modern CSS techniques
-- 🤖 Menjelajahi design systems dan accessibility best practices
-- 📚 Berkontribusi ke open source design projects
-- 🌱 Membangun portfolio dengan real-world projects
-- 🚀 Mengasah skills dalam full stack development
-
----
-
-## 💼 Academic & Project Highlights
-
-- 🎓 **Informatika** di Institut Teknologi Sumatera (2023 - Present)
-- 🏆 Menyelesaikan berbagai proyek UI/UX design
-- 💻 Mengembangkan aplikasi web yang responsive dan modern
-- 👥 Berkolaborasi dalam team projects dan hackathons
-- 🎯 Fokus pada user-centered design principles
-- 📈 Terus meningkatkan design dan coding skills
-
----
-
-## 🏆 Featured Projects
-
-### 🎨 UI/UX Design Projects
-*Coming soon - Portfolio projects akan ditampilkan di sini*
-
-### 💻 Full Stack Development Projects
-*Coming soon - Development projects akan ditampilkan di sini*
-
-### 🌐 Portfolio Website
-*Coming soon- Link portfolio akan ditampilkan di sini*
-
----
-
-## 📊 GitHub Analytics
+## � GitHub Stats
 
 <div align="center">
 
@@ -158,20 +122,31 @@ Saya adalah mahasiswa **Informatika Institut Teknologi Sumatera (ITERA)** yang m
 
 ---
 
-## 🎯 I'm Looking For
+## 🧩 Current Focus
 
-- 💼 **Internship Opportunities** - Sebagai UI/UX Designer atau Frontend Developer
-- 🤝 **Project Collaborations** - Dengan mahasiswa atau startup
-- 🌟 **Part-time Roles** - Yang flexible dengan jadwal kuliah
-- 🚀 **Learning Opportunities** - Di tech companies atau agencies
-- 👥 **Open Source Contributions** - Untuk membangun portfolio yang lebih kuat
+- � Building **AI-powered web applications**
+- 🧠 Learning **advanced system design & AI integration**
+- 🌐 Expanding my **fullstack development skills**
+- 🤝 Contributing to **open-source projects**
 
 ---
 
-## 📫 Let's Connect!
+## � Opportunities
+
+I’m currently open to:
+
+- � **Internships (Software Engineer / AI Engineer)**
+- 🤝 **Tech collaborations**
+- 🚀 **Startup projects**
+- 🌱 **Open source contributions**
+
+---
+
+## 📫 Connect With Me
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://mario-sitepu.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mario%20Fransiskus%20Sitepu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariofransiskussitepu/)
 [![Email](https://img.shields.io/badge/Email-stinart123%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stinart123@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-+6281262553164-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281262553164)
@@ -182,9 +157,7 @@ Saya adalah mahasiswa **Informatika Institut Teknologi Sumatera (ITERA)** yang m
 
 <div align="center">
 
-### 🔥 Ready to create amazing user experiences together? Let's connect!
-
-⭐ **Open to internships, freelance projects, and collaborations!**
+⭐ *"Build things that matter."*
 
 <div align="center">
 
@@ -201,4 +174,3 @@ Saya adalah mahasiswa **Informatika Institut Teknologi Sumatera (ITERA)** yang m
 </div>
 
 </div>
-
