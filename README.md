@@ -117,8 +117,8 @@ I focus on building **scalable web applications**, integrating **AI into real-wo
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarioSitepu&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioSitepu&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarioSitepu&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&v=1"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarioSitepu&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&v=1"/>
 
 </div>
 
