@@ -134,7 +134,8 @@ motto: "Build things that matter."
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=MarioSitepu&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MarioSitepu&theme=radical&utcOffset=7" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MarioSitepu&theme=radical" width="49%"/>
 
 </div>
 
