@@ -117,8 +117,8 @@ I focus on building **scalable web applications**, integrating **AI into real-wo
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MarioSitepu&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&v=2"/>
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MarioSitepu&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&v=2"/>
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=MarioSitepu&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=FF6B6B&v=2"/>
+<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=MarioSitepu&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&v=2"/>
 
 </div>
 
@@ -126,7 +126,7 @@ I focus on building **scalable web applications**, integrating **AI into real-wo
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=MarioSitepu&theme=radical)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MarioSitepu&theme=radical&hide_border=true&area=true)
+![GitHub Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarioSitepu&theme=radical)
 
 </div>
 
